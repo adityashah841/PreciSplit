@@ -8,6 +8,7 @@ Welcome to the PreciSplit project repository! This initiative is a pioneering ef
 - Generalization: Our methodology goes beyond speed gains. PreciSplit demonstrates considerably improved generalization compared to existing models. This is evident in error results across datasets of varying sizes, as detailed in our research paper.
 
 - Technological Innovation: The project showcases our team's creativity, resilience, and technical prowess. We've addressed challenges related to time complexities and algorithm optimization, pushing the boundaries of what is achievable in polynomial regression modeling.
+- DOI: https://doi.org/10.21203/rs.3.rs-3106789/v1
 
 <table>
   <tr>
