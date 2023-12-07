@@ -38,8 +38,8 @@ Welcome to the PreciSplit project repository! This initiative is a pioneering ef
 
 <h2>Acknowledgements</h2>
 
-- Utkarsh Verma
+- <a href="https://www.linkedin.com/in/utkarsh-verma-7a848622a/">Utkarsh Verma</a>
 
-- Shreya Shah
+- <a href="https://www.linkedin.com/in/shreya-shah-98698923a/">Shreya Shah</a>
 
-- Dishant Zaveri
+- <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Dishant Zaveri</a>
