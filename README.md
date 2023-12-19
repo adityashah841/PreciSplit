@@ -42,4 +42,6 @@ Welcome to the PreciSplit project repository! This initiative is a pioneering ef
 
 - <a href="https://www.linkedin.com/in/shreya-shah-98698923a/">Shreya Shah</a>
 
+- <a href="https://www.linkedin.com/in/aditya-shah-139154208/">Aditya Shah</a>
+
 - <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Dishant Zaveri</a>
